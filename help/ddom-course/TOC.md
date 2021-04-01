@@ -4,8 +4,9 @@ breadcrumb-title: Handbuch für datengetriebene Betriebsmodelle
 user-guide-description: Sehen Sie sich diese Videos an, um zu erfahren, wie Sie das datengesteuerte Betriebssystem der Adobe verwenden.
 solution: Experience Cloud
 type: Übung
+hide: true
 translation-type: tm+mt
-source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
+source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
