@@ -1,17 +1,17 @@
 ---
-title: DDOM Insights and Learning
-description: 'DDOM hat Adobe dabei geholfen, einige der Einblicke zu erfahren und mehr über einige Überlegungen zur Einrichtung Ihrer eigenen DDOM-Version zu erfahren. '
-translation-type: tm+mt
+title: DDOM – gewonnene Erkenntnisse.
+description: 'Erfahren Sie, welche Erkenntnisse Adobe mit dem DDOM erlangen konnte und was Sie beim Einrichten Ihrer eigenen DDOM-Version beachten sollten. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# DDOM Insights and Learning
+# DDOM – gewonnene Erkenntnisse.
 
-DDOM hat Adobe dabei geholfen, einige der Einblicke zu erfahren und mehr über einige Überlegungen zur Einrichtung Ihrer eigenen DDOM-Version zu erfahren.
+Erfahren Sie, welche Erkenntnisse Adobe mit dem DDOM erlangen konnte und was Sie beim Einrichten Ihrer eigenen DDOM-Version beachten sollten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
