@@ -1,17 +1,17 @@
 ---
-title: Lieferbarkeit
-description: Dies ist die Artikelübersicht.
+title: Zustellbarkeit.
+description: Überblick über den Artikel.
 keywords: DDOM, Zustellbarkeit
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '11'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Übersicht über die Lieferbarkeit
+# Überblick über Zustellbarkeit.
 
 Willkommen.
 
