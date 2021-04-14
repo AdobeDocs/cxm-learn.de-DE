@@ -1,24 +1,24 @@
 ---
-title: Datengesteuertes Betriebsmodell der Adobe
-description: Dies ist die Artikelübersicht.
+title: Das datengestützte Betriebsmodell (DDOM) von Adobe.
+description: Überblick über den Artikel.
 keywords: DDOM, digitale Transformation
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# DDOM (Adobe Data Driven Operating Model)
+# Das datengestützte Betriebsmodell (DDOM) von Adobe.
 
-Willkommen bei einer Übersicht über das datengesteuerte Betriebssystem der Adobe (DDOM). In diesem Kurs lernen Sie die [!DNL Adobe Digital Strategy Group]-Geschichte der digitalen Transformation der Adobe, die drei Kernpfeiler von DDOM und Beispieleinblicke, die von DDOM entdeckt wurden, kennen.
+Willkommen zur Übersicht über das datengestützte Betriebsmodell (DDOM) von Adobe. In diesem Kurs informiert Sie die [!DNL Adobe Digital Strategy Group] über die digitale Transformation von Adobe, die drei Säulen des DDOM und einige durch das DDOM erlangte Erkenntnisse.
 
-* [Einführung in DDOM](ddom-introduction.md)
-* [Adobe Digital Transformation Story](transformation-story.md)
-* [DDOMs drei Kernsäulen](ddom-components.md)
-* [Einblicke, die von DDOM entdeckt werden](ddom-insights.md)
+* [Einführung in das DDOM](ddom-introduction.md)
+* [Die digitale Transformation von Adobe](transformation-story.md)
+* [Die drei Säulen des DDOM](ddom-components.md)
+* [Durch das DDOM erlangte Erkenntnisse](ddom-insights.md)
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
