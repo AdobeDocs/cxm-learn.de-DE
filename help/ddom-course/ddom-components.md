@@ -1,17 +1,17 @@
 ---
-title: Drei Eckpfeiler von DDOM
-description: 'Tauchen Sie tiefer in die drei Hauptpfeiler von DDOM (Daten, KPIs und Prozess/Org) ein. '
-translation-type: tm+mt
+title: Die drei Säulen des DDOM.
+description: 'Erfahren Sie mehr über die drei Säulen des DDOM (Daten, KPIs und Prozess/Organisation). '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Drei Eckpfeiler von DDOM
+# Die drei Säulen des DDOM.
 
-Tauchen Sie tiefer in die drei Hauptpfeiler von DDOM (Daten, KPIs und Prozess/Org) ein.
+Erfahren Sie mehr über die drei Säulen des DDOM (Daten, KPIs und Prozess/Organisation).
 
 >[!VIDEO](https://video.tv.adobe.com/v/41692)
