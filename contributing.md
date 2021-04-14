@@ -1,9 +1,9 @@
 ---
 source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # Mitwirken
@@ -14,11 +14,11 @@ Im Folgenden sind Leitlinien aufgeführt, die Mitwirkende an diesem Projekt befo
 
 ## Verhaltenskodex
 
-Dieses Projekt unterliegt dem [Adobe-Verhaltenskodex](code-of-conduct.md). Mit der Teilnahme verpflichten Sie sich zur Einhaltung dieses Kodex. Bitte melden Sie inakzeptables Verhalten an [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+Für dieses Projekt gilt der [Adobe-Verhaltenskodex](code-of-conduct.md). Mit der Teilnahme verpflichten Sie sich zur Einhaltung dieses Kodex. Bitte melden Sie inakzeptables Verhalten an [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Dokumentation des Mitarbeiter-Handbuchs
+## Dokumentation der Leitlinien für Mitwirkende.
 
-Siehe [Mitarbeiter-Handbuch](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Beachten Sie hierzu den [Mitarbeiter-Leitfaden](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
 
 ## Sie haben eine Frage?
 
@@ -26,7 +26,7 @@ Beginnen Sie, indem Sie eine Anfrage einreichen. Die derzeitigen Committer diese
 
 ## Lizenzvereinbarung für Mitwirkende
 
-Die Teilnahme Dritter an diesem Projekt setzt die Unterzeichnung einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) voraus Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts weiterzugeben. [Unterzeichnen Sie hier unser CLA](http://opensource.adobe.com/cla.html). Sie müssen das Adobe CLA nur einmal unterzeichnen und übermitteln. Wenn Sie eine solche also bereits übermittelt haben, sind Sie startklar.
+Die Teilnahme Dritter an diesem Projekt setzt die Unterzeichnung einer Lizenzvereinbarung für Mitwirkende (Contributor License Agreement, CLA) voraus. Dadurch erhält Adobe die Erlaubnis, Ihre Beiträge im Rahmen des Projekts weiterzugeben. [Unterzeichnen Sie hier unser CLA](http://opensource.adobe.com/cla.html). Sie müssen das Adobe CLA nur einmal unterzeichnen und übermitteln. Wenn Sie eine solche also bereits übermittelt haben, sind Sie startklar.
 
 ## Code-Prüfungen
 
