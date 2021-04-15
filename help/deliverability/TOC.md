@@ -1,19 +1,19 @@
 ---
-user-guide-title: Handbuch zur Lieferbarkeit
-breadcrumb-title: Handbuch zur Lieferbarkeit
-user-guide-description: Sehen Sie sich diese Videos an, um zu erfahren, wie die Bereitstellbarkeit genutzt wird.
+user-guide-title: Handbuch zur Zustellbarkeit.
+breadcrumb-title: Handbuch zur Zustellbarkeit.
+user-guide-description: In diesen Videos erfahren Sie, wie Sie die Zustellbarkeit nutzen.
 solution: Experience Cloud
-type: Übung
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 0%
+source-wordcount: '16'
+ht-degree: 100%
 
 ---
 
 
-# Auslieferungshandbuch {#deliverability}
+# Handbuch zur Zustellbarkeit. {#deliverability}
 
-+ [Übersicht](overview.md)
++ [Überblick](overview.md)
