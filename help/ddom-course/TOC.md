@@ -1,23 +1,23 @@
 ---
-user-guide-title: Handbuch zum datengesteuerten Betriebssystem der Adobe
-breadcrumb-title: Handbuch für datengetriebene Betriebsmodelle
-user-guide-description: Sehen Sie sich diese Videos an, um zu erfahren, wie Sie das datengesteuerte Betriebssystem der Adobe verwenden.
+user-guide-title: Handbuch für das datengestützte Betriebsmodell (DDOM) von Adobe.
+breadcrumb-title: Handbuch für das datengestützte Betriebsmodell (DDOM)
+user-guide-description: In diesen Videos erfahren Sie, wie das datengestützte Betriebsmodell (DDOM) von Adobe verwendet wird.
 solution: Experience Cloud
-type: Übung
+type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 100%
 
 ---
 
 
-# Anleitung zum datengesteuerten Betriebssystem der Adobe {#ddom}
+# Handbuch für das datengestützte Betriebsmodell (DDOM) von Adobe. {#ddom}
 
-+ [Übersicht](overview.md)
-+ [Einführung in DDOM](ddom-introduction.md)
-+ [Adobe Digital Transformation Story](transformation-story.md)
-+ [DDOMs drei Kernsäulen](ddom-components.md)
-+ [Einblicke, die von DDOM entdeckt werden](ddom-insights.md)
++ [Überblick](overview.md)
++ [Einführung in das DDOM](ddom-introduction.md)
++ [Die digitale Transformation von Adobe](transformation-story.md)
++ [Die drei Säulen des DDOM](ddom-components.md)
++ [Durch das DDOM erlangte Erkenntnisse](ddom-insights.md)
