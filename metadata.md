@@ -8,14 +8,14 @@ translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
-# Metadaten für den internen Gebrauch
+# Metadaten für den internen Gebrauch.
 
-Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die für Benutzerhandbücher verwendeten Dateien namens „TOC.md“ im Repository übergeben werden. Änderungen des Inhalts von „metadata.md“ für ein Benutzerhandbuch können Sie bei Bedarf in der entsprechenden TOC.md-Datei vornehmen.
+Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die in die für Benutzerhandbücher verwendeten Dateien namens „TOC.md“ im Repository übernommen werden. Änderungen des Inhalts von „metadata.md“ für ein Benutzerhandbuch können Sie bei Bedarf in der entsprechenden TOC.md-Datei vornehmen.
 
 | Metadaten | Funktion |
 |--- |--- |
@@ -27,7 +27,7 @@ Die Datei „metadata.md“ enthält Metadaten auf Repository-Ebene, die an die 
 | mini-toc-levels | Legt die Anzahl der Überschriftenebenen fest, die in der rechten Leiste angezeigt werden. Standard ist 2. |
 | git-repo | Gibt den Speicherort des Master-Repositorys für die interne Verwendung an. |
 
-In der Datei &quot;TOC.md&quot;
+In der Datei „TOC.md“.
 
 | Metadaten | Funktion |
 |--- |--- |
