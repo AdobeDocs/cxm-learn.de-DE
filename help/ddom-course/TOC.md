@@ -5,9 +5,8 @@ user-guide-description: In diesen Videos erfahren Sie, wie das datengestützte B
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -16,7 +15,7 @@ ht-degree: 100%
 
 # Handbuch für das datengestützte Betriebsmodell (DDOM) von Adobe. {#ddom}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + [Einführung in das DDOM](ddom-introduction.md)
 + [Die digitale Transformation von Adobe](transformation-story.md)
 + [Die drei Säulen des DDOM](ddom-components.md)
